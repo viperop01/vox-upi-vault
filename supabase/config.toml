@@ -1,0 +1,10 @@
+project_id = "vjeqsfssgupcuyljondf"
+
+[functions.process-voice]
+verify_jwt = true
+
+[functions.simulate-payment]
+verify_jwt = true
+
+[functions.create-sale]
+verify_jwt = true
